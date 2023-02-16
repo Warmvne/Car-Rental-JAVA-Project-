@@ -1,12 +1,21 @@
 # Car-Rental-JAVA-Project-
+
+
 Projet JAVA pour l'ECE
 
+
+
 Goal:
+
 The goal of the project is to enable the customers to rent a car for the desired
 duration. The application will also support Car Rental Company to manage the
 bookings made by the customers.
 
+
+
+
 Program Description:
+
 In this program you will write a set of supporting classes for a car renting
 application. Here is an example of GUI.
 The application should allow the customers to browse through all the available
@@ -19,6 +28,9 @@ member customers will have a login and will be able to book the car with discoun
 offered based on the type of the member.
 You are expected to create a dummy screen to indicate the processing of
 payments.
+
+
+
 
 The application primarily involves details of the available car, their features and
 per day prices as well as customer orders generated and maintained.
@@ -33,6 +45,9 @@ cars etc.
 
 You are expected to design and develop the database for this application along
 with the Java classes necessary to implement the application.
+
+
+
 
 
 Implementation requirements:
@@ -55,6 +70,10 @@ necessary text files.
 
 6. Above picture is an example of GUI. Your GUI does not have to look
 exactly same.
+
+
+
+
 
 
 Deadlines:
