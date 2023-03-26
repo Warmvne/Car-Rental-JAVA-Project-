@@ -77,7 +77,7 @@ Click on "back" to be on the menu and click on "Log out".
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Now the demo is finished. It was a great project we enjoyed to do it. We didn't success to add images unfortunately... But we find how to send a email to the client after its booking but we decided to not add this option in our project because it doesn't work with all email address(Gmail mostly).
-Thanks for everything miss, take care and I hope we will see you again !
+
 
 Marwane.
 
